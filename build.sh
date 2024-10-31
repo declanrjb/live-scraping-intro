@@ -1,0 +1,1 @@
+jupyter nbconvert live-scraping.ipynb --to slides

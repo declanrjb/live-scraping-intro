@@ -1,0 +1,51 @@
+Rank,Name,State,Type,Av. Grant Aid,Av. Debt,Median 10-year Salary,Financial Grade
+1,Princeton University,NJ,Private not-for-profit,"$59,792","$7,559","$189,400",A-
+2,Stanford University,CA,Private not-for-profit,"$60,619","$12,999","$177,500",A+
+3,Massachusetts Institute of Technology,MA,Private not-for-profit,"$45,591","$13,792","$189,400",A
+4,Yale University,CT,Private not-for-profit,"$63,523","$4,926","$168,300",A+
+5,"University of California, Berkeley",CA,Public,"$21,669","$7,238","$167,000",
+6,Columbia University,NY,Private not-for-profit,"$61,061","$16,849","$156,000",A+
+7,University of Pennsylvania,PA,Private not-for-profit,"$57,175","$12,499","$171,800",A+
+8,Harvard University,MA,Private not-for-profit,"$61,801","$9,004","$171,400",A
+9,Rice University,TX,Private not-for-profit,"$51,955","$10,818","$152,100",A
+10,Cornell University,NY,Private not-for-profit,"$54,219","$8,309","$155,400",A+
+11,Northwestern University,IL,Private not-for-profit,"$61,716","$6,973","$141,300",A
+12,Johns Hopkins University,MD,Private not-for-profit,"$54,405","$9,843","$142,300",A
+13,"University of California, Los Angeles",CA,Public,"$21,766","$6,418","$144,400",
+14,University of Chicago,IL,Private not-for-profit,"$48,422","$12,150","$150,600",A
+15,Vanderbilt University,TN,Private not-for-profit,"$53,932","$8,872","$148,000",A-
+16,Dartmouth College,NH,Private not-for-profit,"$62,293","$6,404","$173,300",A
+17,Williams College,MA,Private not-for-profit,"$57,121","$4,143","$169,200",A+
+18,Brown University,RI,Private not-for-profit,"$55,847","$10,059","$155,000",A
+19,Claremont McKenna College,CA,Private not-for-profit,"$50,020","$7,631","$167,000",A+
+20,Duke University,NC,Private not-for-profit,"$57,444","$6,351","$158,700",A+
+21,"University of California, San Diego",CA,Public,"$20,782","$6,437","$151,500",
+22,California Institute of Technology,CA,Private not-for-profit,"$59,192","$12,553","$168,600",B+
+23,Wellesley College,MA,Private not-for-profit,"$61,328","$5,608","$134,100",A+
+24,Amherst College,MA,Private not-for-profit,"$58,693","$9,293","$139,700",A+
+25,Bowdoin College,ME,Private not-for-profit,"$53,534","$10,512","$152,900",A+
+26,University of Florida,FL,Public,"$10,555","$6,122","$123,700",
+27,Swarthmore College,PA,Private not-for-profit,"$47,703","$7,705","$154,900",A+
+28,University of Southern California,CA,Private not-for-profit,"$45,262","$7,526","$150,100",B-
+29,"University of Michigan, Ann Arbor",MI,Public,"$15,121","$8,470","$137,500",
+30,Washington University in St. Louis,MO,Private not-for-profit,"$58,188","$9,495","$142,800",A+
+31,"University of North Carolina, Chapel Hill",NC,Public,"$18,066","$7,953","$118,200",
+32,Georgetown University,DC,Private not-for-profit,"$45,949","$8,982","$163,400",B
+33,Emory University,GA,Private not-for-profit,"$48,914","$7,280","$138,600",A
+34,University of Virginia,VA,Public,"$26,818","$8,639","$149,100",
+35,"University of California, Santa Barbara",CA,Public,"$20,389","$7,453","$148,600",
+36,Brigham Young University,UT,Private not-for-profit,"$6,325","$5,457","$133,900",A+
+37,Pomona College,CA,Private not-for-profit,"$57,848","$9,049","$138,900",A+
+38,Georgia Institute of Technology,GA,Public,"$13,992","$7,027","$163,500",
+39,"University of California, Irvine",CA,Public,"$17,411","$6,561","$148,400",
+40,"University of Illinois, Urbana-Champaign",IL,Public,"$16,552","$6,697","$139,900",
+41,"University of Maryland, College Park",MD,Public,"$11,232","$10,201","$134,700",
+42,University of Notre Dame,IN,Private not-for-profit,"$49,859","$7,390","$160,200",A+
+43,"University of California, Davis",CA,Public,"$20,548","$5,965","$142,700",
+44,"University of Washington, Seattle",WA,Public,"$14,731","$6,169","$136,800",
+45,Colgate University,NY,Private not-for-profit,"$54,647","$9,018","$173,800",A-
+46,"University of Texas, Austin",TX,Public,"$8,321","$5,851","$137,000",
+47,Washington and Lee University,VA,Private not-for-profit,"$55,567","$7,714","$162,500",B+
+48,Davidson College,NC,Private not-for-profit,"$46,496","$8,422","$140,300",A
+49,New York University,NY,Private not-for-profit,"$47,096","$8,550","$147,100",B
+50,"University of Wisconsin, Madison",WI,Public,"$11,171","$9,299","$125,900",
