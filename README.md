@@ -1,0 +1,1 @@
+Code and support files for my talk on dynamic scraping with rvest at the 2024 National College Media Conference in New Orleans. Follow along at [tinyurl.com/live-scraping](https://tinyurl.com/live-scraping).
